@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(32, 35, 36);
+  color: white;
+}
+
+#juegos {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
