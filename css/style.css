@@ -14,3 +14,19 @@ body {
   grid-template-columns: auto auto auto;
   padding-left: 5rem;
 }
+footer {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+#final {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+#prueba {
+  padding-top: 30px;
+}
+
+#final2 {
+}
