@@ -28,5 +28,18 @@ footer {
   padding-top: 30px;
 }
 
-#final2 {
+#header1 {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+#letras_header {
+  display: flex;
+  align-items: center;
+}
+
+.carusel {
+  display: flex;
+  align-items: center;
+  padding-left: 20%;
+  width: 800px;
 }
